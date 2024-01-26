@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, Vicky here. I just want to say thank you for visiting my account.
 
-I like to make a computer program when I got **an Inspiration**. 
+I like to make a computer program when I got **an Inspiration**.  
 
-My Codewars Badge
+My Codewars Badge  
 ![image](https://www.codewars.com/users/vick1208/badges/large)
